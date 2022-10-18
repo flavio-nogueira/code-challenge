@@ -14,6 +14,11 @@ Estrutura de Dados:
 - Cliente → Nome, Email, Endereço (cep, estado, cidade, número) e senha.
 - Produto → Nome, preço, descrição e foto (imagem)
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/114115154/196324398-7e02c26b-d792-4e17-b835-8dd122f49638.png" width="700px">
+<div>
+
 Regras:
 
 - Um cliente pode cadastrar apenas um endereço. (1x1)
